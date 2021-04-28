@@ -1,0 +1,13 @@
+name: Nucleotide_Review
+title: Nucleotide_Review
+username:
+account: skourtis
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4044486
+bundleId: 4529298
+url: https://skourtis.shinyapps.io/Nucleotide_Review/
+when: 1619604728.67411
+lastSyncTime: 1619604728.67411
+asMultiple: FALSE
+asStatic: FALSE
